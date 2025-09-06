@@ -21,7 +21,7 @@ import octopart
 ```
 """
 from ..utils import view
-__version__ = "0.0.2"
+__version__ = "0.0.3"
 
 
 def all_categories() -> list[dict]:
